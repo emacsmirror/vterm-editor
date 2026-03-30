@@ -1,6 +1,6 @@
 ;;; vterm-editor.el --- Edit text in a buffer and send it to vterm -*- lexical-binding: t; -*-
 
-;; Author:
+;; Author: Andros Fenollosa <hi@andros.dev>
 ;; URL: https://git.andros.dev/andros/vterm-editor.el
 ;; Version: 1.0.0
 ;; Package-Requires: ((emacs "25.1") (vterm "0.0.1"))
