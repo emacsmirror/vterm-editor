@@ -41,6 +41,12 @@ You type directly in the terminal, limited to basic line editing.
 
 ## Installation
 
+## MELPA
+
+```txt
+M-x package-install RET vterm-editor RET
+```
+
 ### Using `use-package` (Emacs 29+)
 
 ```elisp
